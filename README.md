@@ -5,7 +5,7 @@ In this work 3 methods were compared: UNet (https://arxiv.org/abs/2210.08877), F
 
 test_fno2d - launch to train and predict with FNO2D.  
 
-test_STpconv - launch to train and predict with STpconvnet (were used this code https://github.com/appelmar/STpconv).  
+test_STpconv - launch to train and predict with STpconvnet (were used this code https://github.com/appelmar/STpconv). To launch this script copy https://github.com/appelmar/STpconv repository
 
 test_unet - launch to train and predict with UNet (does not work in this version)
 
